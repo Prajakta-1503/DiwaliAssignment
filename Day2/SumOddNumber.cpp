@@ -10,6 +10,5 @@ int main() {
         sum += 2 * i + 1; 
     }
     cout << "Sum of first n odd numbers is: " << sum << endl;
-
     return 0;
 }
